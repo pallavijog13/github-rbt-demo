@@ -1,6 +1,6 @@
 # add implementation
 def add(x,y):
-	pass
+	return x+y		# assume that this commit is performed by another team member
 
 # subtract implementation
 def subtract(x,y):
