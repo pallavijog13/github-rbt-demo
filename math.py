@@ -13,3 +13,6 @@ def multiply(x,y):
 # divide implementation
 def divide(x,y):
     pass
+
+def square(x):		# pushed to remote repo by another developer
+	pass
